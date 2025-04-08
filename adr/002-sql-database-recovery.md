@@ -2,7 +2,7 @@ As a technical architect, I want to have architecture decision records for signi
 
 Something like below,
 
-# SQL Database Recovery
+# SQL Database Recovery for US and Europe Regions
 
 ## Status
 ✍️ <font color="orange">Proposed </font> 
