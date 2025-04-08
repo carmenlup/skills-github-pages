@@ -2,7 +2,7 @@ As a technical architect, I want to have architecture decision records for signi
 
 Something like below,
 
-# Title
+# SQL Database Recovery
 
 ## Status
 ✍️ <font color="orange">Proposed </font> | ✅ <font color="green">Accepted </font> | ❌ <font color="red">Suspended</font> | ❗<font color="red">Deprecated</font> | 📄 <font color="grey">Draft</font>
