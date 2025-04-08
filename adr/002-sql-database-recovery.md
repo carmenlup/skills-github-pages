@@ -5,7 +5,7 @@ Something like below,
 # SQL Database Recovery
 
 ## Status
-✍️ <font color="orange">Proposed </font> | ✅ <font color="green">Accepted </font> | ❌ <font color="red">Suspended</font> | ❗<font color="red">Deprecated</font> | 📄 <font color="grey">Draft</font>
+✍️ <font color="orange">Proposed </font> 
 ## Context
 What is the issue or problem we are addressing?
 
